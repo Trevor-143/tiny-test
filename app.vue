@@ -11,7 +11,7 @@
 <template>
   <main id="sample">
     <Editor
-      api-key="bfjpt8qfnb40qreusjb04wksnahw2kyzigzjjxwr990019y7"
+      api-key="api-key"
       :init="{
         toolbar_mode: 'sliding',
         plugins: 'ai tinycomments mentions anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed permanentpen footnotes advtemplate advtable advcode editimage tableofcontents mergetags powerpaste tinymcespellchecker autocorrect a11ychecker typography inlinecss',
